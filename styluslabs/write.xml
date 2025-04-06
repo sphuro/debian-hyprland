@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <map>
-  <int name="lastUpdateCheck" value="1742818778" />
+  <int name="lastUpdateCheck" value="1743709497" />
   <int name="showPenToolbar" value="1" />
-  <int name="strokeCounter" value="14" />
+  <int name="strokeCounter" value="7" />
   <float name="pageHeight" value="1660" />
   <float name="pageWidth" value="922" />
   <string name="currFolder" value="/home/sphuro/notes/sem4/IE/" />
   <string name="docFileExt" value="svgz" />
   <string name="newDocTitleFmt" value="%b %e %Hh%M" />
-  <string name="recentDocs" value="/home/sphuro/notes/sem4/IE/Mar 18 14h53.svgz:::/home/sphuro/notes/sem4/IE/Mar  7 13h14.svgz:::/home/sphuro/notes/sem4/IE/Mar  6 15h00.svgz:::/home/sphuro/notes/sem4/FNW/Mar 17 11h02.svgz:::/home/sphuro/notes/sem4/FNW/Mar 19 11h05.svgz:::/home/sphuro/notes/sem4/FNW/Mar  5 11h06.svgz:::/home/sphuro/notes/sem4/FNW/Mar  3 11h03.svgz:::/home/sphuro/notes/sem4/FNW/Mar 24 11h08.svgz:::/home/sphuro/notes/sem4/FNW/Feb 20 11h24 midsem prac.svgz:::/home/sphuro/notes/sem4/FNW/revision.svgz:::/home/sphuro/notes/sem4/IE/Mar 27 15h05.svgz" />
+  <string name="recentDocs" value="/home/sphuro/notes/sem4/IE/Feb 21 09h24 midsem prep.svgz:::/home/sphuro/notes/sem4/IE/Jan 30 14h59.svgz:::/home/sphuro/notes/sem4/IE/Jan 30 00h14 tut simulation.svgz:::/home/sphuro/notes/sem4/IE/Jan 28 15h07.svgz:::/home/sphuro/notes/sem4/IE/Mar  6 15h00.svgz:::/home/sphuro/notes/sem4/IE/Feb  6 14h23.svgz:::/home/sphuro/notes/sem4/FNW/Apr  2 11h05.svgz:::/home/sphuro/notes/sem4/FNW/Mar  3 11h03.svgz:::/home/sphuro/notes/sem4/FNW/Mar 26 11h05.svgz:::/home/sphuro/notes/sem4/FNW/revision.svgz:::/home/sphuro/notes/sem4/FNW/Feb 20 11h24 midsem prac.svgz" />
   <string name="savedColors" value="#FF000000,#FFFF0000,#FF008000,#FF0000FF" />
   <string name="savedWidths" value="1.400,2.400,4.000,8.000" />
   <string name="toolBars2" value="docTitle,stretch,actionSave,separator,tools,separator,undoRedoBtn,separator,seltools,separator,actionShow_Bookmarks,actionShow_Clippings,actionSplitView,separator,actionOverflow_Menu" />
